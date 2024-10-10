@@ -14,54 +14,74 @@ SGH UW Equity,SMART Global Holdings Inc,0.001126,50.225,19.88,SGH,SGH,Technology
 PRAX UW Equity,Praxis Precision Medicines Inc,0.001116,16.998,58.25,PRAX,PRAX,Healthcare,Biotechnology,"Praxis Precision Medicines, Inc",United States,USD
 WOLF UN Equity,Wolfspeed Inc,0.001109,124.704,7.89,WOLF,WOLF,Technology,Semiconductors,"Wolfspeed, Inc.",United States,USD
 COGT UW Equity,Cogent Biosciences Inc,0.001091,88.937,10.88,COGT,COGT,Healthcare,Biotechnology,"Cogent Biosciences, Inc.",United States,USD
+TGI UN Equity,Triumph Group Inc,0.001088,75.606,12.77,TGI,TGI,Industrials,Aerospace & Defense,"Triumph Group, Inc.",United States,USD
 NMRA UW Equity,Neumora Therapeutics Inc,0.001063,73.66,12.8,NMRA,NMRA,Healthcare,Biotechnology,"Neumora Therapeutics, Inc.",United States,USD
 ARQT UW Equity,Arcutis Biotherapeutics Inc,0.001031,100.502,9.1,ARQT,ARQT,Healthcare,Biotechnology,"Arcutis Biotherapeutics, Inc.",United States,USD
+LMND UN Equity,Lemonade Inc,0.001013,52.36,17.17,LMND,LMND,Financial Services,Insurance—Property & Casualty,"Lemonade, Inc.",United States,USD
 RLAY UQ Equity,Relay Therapeutics Inc,0.001007,126.578,7.06,RLAY,RLAY,Healthcare,Biotechnology,"Relay Therapeutics, Inc.",United States,USD
+SPR AT Equity,Spartan Resources Ltd/Australia,0.001006,930.481,1.405,SPR,SPR,Industrials,Aerospace & Defense,"Spirit Aerosystems Holdings, In",United States,USD
 AMSF UW Equity,AMERISAFE Inc,0.001005,18.599,47.91,AMSF,AMSF,Financial Services,Insurance—Specialty,"AMERISAFE, Inc.",United States,USD
 ZYME UW Equity,Zymeworks Inc,0.000992,70.312,12.51,ZYME,ZYME,Healthcare,Biotechnology,Zymeworks Inc.,United States,USD
 SPRY UQ Equity,ARS Pharmaceuticals Inc,0.00099,62.507,14.05,SPRY,SPRY,Healthcare,Biotechnology,"ARS Pharmaceuticals, Inc.",United States,USD
 MRVI UW Equity,Maravai LifeSciences Holdings Inc,0.000989,108.331,8.1,MRVI,MRVI,Healthcare,Biotechnology,"Maravai LifeSciences Holdings, ",United States,USD
+HCI UN Equity,HCI Group Inc,0.00098,8.179,106.25,HCI,HCI,Financial Services,Insurance—Property & Casualty,"HCI Group, Inc.",United States,USD
 QLG MK Equity,QL Resources Bhd,0.000977,776.6415,4.61,QLG,QLGN,Healthcare,Biotechnology,"Qualigen Therapeutics, Inc.",United States,USD
 DAWN UW Equity,Day One Biopharmaceuticals Inc,0.000977,61.623,14.06,DAWN,DAWN,Healthcare,Biotechnology,"Day One Biopharmaceuticals, Inc",United States,USD
 IRON UQ Equity,Disc Medicine Inc,0.000972,18.015,47.87,IRON,IRON,Healthcare,Biotechnology,"Disc Medicine, Inc.",United States,USD
 CIBUS SS Equity,Cibus Nordic Real Estate AB publ,0.000969,49.99,175.05,CIBUS,CBUS,Healthcare,Biotechnology,"Cibus, Inc.",United States,USD
+CDRE UN Equity,Cadre Holdings Inc,0.000965,22.885,37.4,CDRE,CDRE,Industrials,Aerospace & Defense,"Cadre Holdings, Inc.",United States,USD
 ACE IM Equity,ACEA SpA,0.000938,43.051,17.36,ACE,ACET,Healthcare,Biotechnology,"Adicet Bio, Inc.",United States,USD
 AOSL UW Equity,Alpha & Omega Semiconductor Ltd,0.000929,22.992,35.86,AOSL,AOSL,Technology,Semiconductors,Alpha and Omega Semiconductor L,United States,USD
 ELVN UW Equity,Enliven Therapeutics Inc,0.000907,33.219,24.23,ELVN,ELVN,Healthcare,Biotechnology,"Enliven Therapeutics, Inc.",United States,USD
+DCO UN Equity,Ducommun Inc,0.000884,12.325,63.6,DCO,DCO,Industrials,Aerospace & Defense,Ducommun Incorporated,United States,USD
 VIR UW Equity,Vir Biotechnology Inc,0.000868,106.096,7.26,VIR,VIR,Healthcare,Biotechnology,"Vir Biotechnology, Inc.",United States,USD
+PLM IS Equity,Poly Medicure Ltd,0.000861,27.546,2317,PLM,PLMR,Financial Services,Insurance—Property & Casualty,"Palomar Holdings, Inc.",United States,USD
 RCUS UN Equity,Arcus Biosciences Inc,0.000844,49.008,15.27,RCUS,RCUS,Healthcare,Biotechnology,"Arcus Biosciences, Inc.",United States,USD
 ENA PW Equity,Enea SA,0.000838,247.539,11.51,ENA,ENTA,Healthcare,Biotechnology,"Enanta Pharmaceuticals, Inc.",United States,USD
 CGEM UW Equity,Cullinan Therapeutics Inc,0.000834,45.274,16.34,CGEM,CGEM,Healthcare,Biotechnology,"Cullinan Therapeutics, Inc.",United States,USD
+PRA UN Equity,ProAssurance Corp,0.000821,50.286,14.49,PRA,PRA,Financial Services,Insurance—Property & Casualty,ProAssurance Corporation,United States,USD
 ARV NZ Equity,Arvida Group Ltd,0.000805,682.506,1.67,ARV,ARVN,Healthcare,Biotechnology,"Arvinas, Inc.",United States,USD
+STC KK Equity,Kuwait Telecommunications Co,0.000798,393.221,550,STC,STC,Financial Services,Insurance—Property & Casualty,Stewart Information Services Co,United States,USD
+RGR UN Equity,Sturm Ruger & Co Inc,0.000783,16.53,42.04,RGR,RGR,Industrials,Aerospace & Defense,"Sturm, Ruger & Company, Inc.",United States,USD
 IMNM UR Equity,Immunome Inc,0.00078,48.544,14.26,IMNM,IMNM,Healthcare,Biotechnology,"Immunome, Inc.",United States,USD
 CK TB Equity,CH Karnchang PCL,0.000771,1120.71,20,CK,CKPT,Healthcare,Biotechnology,"Checkpoint Therapeutics, Inc.",United States,USD
 SILO IJ Equity,Siloam International Hospitals Tbk PT,0.000747,3335.063,3010,SILO,SILO,Healthcare,Biotechnology,"Silo Pharma, Inc.",United States,USD
+VVX UN Equity,V2X Inc,0.000744,12.051,54.73,VVX,VVX,Industrials,Aerospace & Defense,"V2X, Inc.",United States,USD
 DNTH UR Equity,Dianthus Therapeutics Inc,0.000742,24.66,26.69,DNTH,DNTH,Healthcare,Biotechnology,"Dianthus Therapeutics, Inc.",United States,USD
 MDXG UR Equity,MiMedx Group Inc,0.000742,112.265,5.86,MDXG,MDXG,Healthcare,Biotechnology,"MiMedx Group, Inc",United States,USD
 ERA FP Equity,Eramet SA,0.000734,8.84,66.15,ERA,ERAS,Healthcare,Biotechnology,"Erasca, Inc.",United States,USD
 PLRX UW Equity,Pliant Therapeutics Inc,0.000714,55.92,11.33,PLRX,PLRX,Healthcare,Biotechnology,"Pliant Therapeutics, Inc.",United States,USD
+BA TB Equity,Bangkok Airways PCL,0.000703,866.212,23.6,BA,BA,Industrials,Aerospace & Defense,Boeing Company (The),United States,USD
 ANAB UW Equity,AnaptysBio Inc,0.000699,19.186,32.34,ANAB,ANAB,Healthcare,Biotechnology,"AnaptysBio, Inc.",United States,USD
 OLMA UW Equity,Olema Pharmaceuticals Inc,0.000697,49.88,12.4,OLMA,OLMA,Healthcare,Biotechnology,"Olema Pharmaceuticals, Inc.",United States,USD
 AURA IT Equity,Aura Investments Ltd,0.000696,145.218,1592,AURA,AURA,Healthcare,Biotechnology,"Aura Biosciences, Inc.",United States,USD
 MRN FP Equity,Mersen SA,0.000692,20.098,27.45,MRN,MRNA,Healthcare,Biotechnology,"Moderna, Inc.",United States,USD
+AERO SE Equity,Montana Aerospace AG,0.000689,25.166,20.65,AERO,GE,Industrials,Aerospace & Defense,GE Aerospace,United States,USD
 ETNB UQ Equity,89bio Inc,0.000684,81.799,7.42,ETNB,ETNB,Healthcare,Biotechnology,"89bio, Inc.",United States,USD
 SRRK UW Equity,Scholar Rock Holding Corp,0.00065,66.98,8.61,SRRK,SRRK,Healthcare,Biotechnology,Scholar Rock Holding Corporatio,United States,USD
+SWBI UW Equity,Smith & Wesson Brands Inc,0.000647,44.35,12.94,SWBI,SWBI,Industrials,Aerospace & Defense,"Smith & Wesson Brands, Inc.",United States,USD
+ATRO UW Equity,Astronics Corp,0.000637,28.412,19.89,ATRO,ATRO,Industrials,Aerospace & Defense,Astronics Corporation,United States,USD
 ORIC UW Equity,ORIC Pharmaceuticals Inc,0.000628,55.675,10,ORIC,ORIC,Healthcare,Biotechnology,"Oric Pharmaceuticals, Inc.",United States,USD
 FDMT UW Equity,4D Molecular Therapeutics Inc,0.000626,49.244,11.28,FDMT,FDMT,Healthcare,Biotechnology,"4D Molecular Therapeutics, Inc.",United States,USD
 SMT IT Equity,Summit Real Estate Holdings Ltd,0.000621,39.982,5160,SMT,SMTC,Technology,Semiconductors,Semtech Corporation,United States,USD
 IBRX UW Equity,ImmunityBio Inc,0.000621,154.669,3.56,IBRX,IBRX,Healthcare,Biotechnology,"ImmunityBio, Inc.",United States,USD
+ACHR UN Equity,Archer Aviation Inc,0.000616,187.809,2.91,ACHR,ACHR,Industrials,Aerospace & Defense,Archer Aviation Inc.,United States,USD
 LQDA UR Equity,Liquidia Corp,0.000608,52.32,10.31,LQDA,LQDA,Healthcare,Biotechnology,Liquidia Corporation,United States,USD
+HCI SJ Equity,Hosken Consolidated Investments Ltd,0.000592,49.225,18376,HCI,HCI,Financial Services,Insurance—Property & Casualty,"HCI Group, Inc.",United States,USD
 ADPT UW Equity,Adaptive Biotechnologies Corp,0.000582,129.155,4,ADPT,ADPT,Healthcare,Biotechnology,Adaptive Biotechnologies Corpor,United States,USD
 ERAS UW Equity,Erasca Inc,0.000579,187.417,2.74,ERAS,ERAS,Healthcare,Biotechnology,"Erasca, Inc.",United States,USD
 ATXS UQ Equity,Astria Therapeutics Inc,0.000575,48.16,10.6,ATXS,ATXS,Healthcare,Biotechnology,"Astria Therapeutics, Inc.",United States,USD
 ARCT UQ Equity,Arcturus Therapeutics Holdings Inc,0.000563,23.434,21.31,ARCT,ARCT,Healthcare,Biotechnology,Arcturus Therapeutics Holdings ,United States,USD
 TNGX UQ Equity,Tango Therapeutics Inc,0.000559,66.718,7.43,TNGX,TNGX,Healthcare,Biotechnology,"Tango Therapeutics, Inc.",United States,USD
+AVIA IJ Equity,Avia Avian Tbk PT,0.000552,15089.93,492,AVIA,ACHR,Industrials,Aerospace & Defense,Archer Aviation Inc.,United States,USD
 SANA UW Equity,Sana Biotechnology Inc,0.000551,130.092,3.76,SANA,SANA,Healthcare,Biotechnology,"Sana Biotechnology, Inc.",United States,USD
 RGNX UW Equity,REGENXBIO Inc,0.000551,45.108,10.83,RGNX,RGNX,Healthcare,Biotechnology,REGENXBIO Inc.,United States,USD
 AMBC UN Equity,Ambac Financial Group Inc,0.00055,43.648,11.18,AMBC,AMBC,Financial Services,Insurance—Specialty,"Ambac Financial Group, Inc.",United States,USD
 CEL IT Equity,Cellcom Israel Ltd,0.000547,106.913,1700,CEL,CVM,Healthcare,Biotechnology,Cel-Sci Corporation,United States,USD
+HEX NO Equity,Hexagon Composites ASA,0.000542,121.105,41.95,HEX,HXL,Industrials,Aerospace & Defense,Hexcel Corporation,United States,USD
 TYRA UW Equity,Tyra Biosciences Inc,0.000524,19.964,23.28,TYRA,TYRA,Healthcare,Biotechnology,"Tyra Biosciences, Inc.",United States,USD
 HUMA UW Equity,Humacyte Inc,0.000512,83.194,5.455,HUMA,HUMA,Healthcare,Biotechnology,"Humacyte, Inc.",United States,USD
+THG LN Equity,THG PLC,0.000501,614.925,54.25,THG,THG,Financial Services,Insurance—Property & Casualty,Hanover Insurance Group Inc,United States,USD
 NUVB UN Equity,Nuvation Bio Inc,0.000494,183.266,2.39,NUVB,NUVB,Healthcare,Biotechnology,Nuvation Bio Inc.,United States,USD
 ACAD SS Equity,AcadeMedia AB,0.000493,66.53,67,ACAD,ACAD,Healthcare,Biotechnology,ACADIA Pharmaceuticals Inc.,United States,USD
 SYR IS Equity,Surya Roshni Ltd,0.000453,48.02,698.8,SYR,SYRS,Healthcare,Biotechnology,"Syros Pharmaceuticals, Inc.",United States,USD
@@ -73,6 +93,7 @@ SLRN UW Equity,ACELYRIN Inc,0.000399,74.06,4.78,SLRN,SLRN,Healthcare,Biotechnolo
 TPS IS Equity,Tips Industries Ltd,0.00039,41.275,701.35,TPS,TPST,Healthcare,Biotechnology,"Tempest Therapeutics, Inc.",United States,USD
 PRTC IT Equity,Priortech Ltd,0.000383,8.299,15340,PRTC,PRTC,Healthcare,Biotechnology,PureTech Health plc,United States,USD
 JAS TB Equity,Jasmine International PCL,0.000379,3991.265,2.76,JAS,JSPR,Healthcare,Biotechnology,"Jasper Therapeutics, Inc.",United States,USD
+HGTY UN Equity,Hagerty Inc,0.00037,31.034,10.59,HGTY,HGTY,Financial Services,Insurance—Property & Casualty,"Hagerty, Inc.",United States,USD
 DNA UN Equity,Ginkgo Bioworks Holdings Inc,0.000347,39.70345,7.76,DNA,DNA,Healthcare,Biotechnology,"Ginkgo Bioworks Holdings, Inc.",United States,USD
 CMR PW Equity,ComArch SA,0.000334,3.486,325.5,CMR,CMRX,Healthcare,Biotechnology,"Chimerix, Inc.",United States,USD
 PTG TB Equity,PTG Energy PCL,0.00032,912.094,10.2,PTG,PTGX,Healthcare,Biotechnology,"Protagonist Therapeutics, Inc.",United States,USD
@@ -80,6 +101,8 @@ AURA TB Equity,Aurora Design PCL,0.000314,589.176,15.5,AURA,AURA,Healthcare,Biot
 NVTS UQ Equity,Navitas Semiconductor Corp,0.000312,125.806,2.2,NVTS,NVTS,Technology,Semiconductors,Navitas Semiconductor Corporati,United States,USD
 LXRX UW Equity,Lexicon Pharmaceuticals Inc,0.000291,171.177,1.51,LXRX,LXRX,Healthcare,Biotechnology,"Lexicon Pharmaceuticals, Inc.",United States,USD
 FHT SP Equity,Frasers Hospitality Trust,0.000287,721.856,0.455,FHT,FHTX,Healthcare,Biotechnology,Foghorn Therapeutics Inc.,United States,USD
+ROOT UW Equity,Root Inc/OH,0.000285,6.569,38.5,ROOT,ROOT,Financial Services,Insurance—Property & Casualty,"Root, Inc.",United States,USD
+THG TB Equity,Thonburi Healthcare Group PCL,0.000279,382.929,21.2,THG,THG,Financial Services,Insurance—Property & Casualty,Hanover Insurance Group Inc,United States,USD
 CKP TB Equity,CK Power PCL,0.000273,2085.144,3.8,CKP,CKPT,Healthcare,Biotechnology,"Checkpoint Therapeutics, Inc.",United States,USD
 INA IB Equity,Insolation Energy Ltd,0.000264,5.325,3671.45,INA,INAB,Healthcare,Biotechnology,"IN8bio, Inc.",United States,USD
 IGMS UW Equity,IGM Biosciences Inc,0.000261,14.116,16.41,IGMS,IGMS,Healthcare,Biotechnology,"IGM Biosciences, Inc.",United States,USD
@@ -91,7 +114,11 @@ AIP SJ Equity,Adcock Ingram Holdings Ltd,0.00021,44.866,7139,AIP,AIP,Technology,
 SGM IS Equity,Sanghvi Movers Ltd,0.000203,18.571,809.7,SGM,SGMO,Healthcare,Biotechnology,"Sangamo Therapeutics, Inc.",United States,USD
 AEON MK Equity,Aeon Co M Bhd,0.000191,451.539,1.55,AEON,AEON,Healthcare,Biotechnology,"AEON Biopharma, Inc.",United States,USD
 PWI IS Equity,Precision Wires India Ltd,0.000182,64.906,208.29,PWI,PWI.F,Technology,Semiconductors,POWER INTEGRATIONS DL-001,United States,EUR
+TXT PW Equity,Text SA,0.000178,8.749,69.2,TXT,TXT,Industrials,Aerospace & Defense,Textron Inc.,United States,USD
 FUSION IS Equity,Fusion Finance Ltd,0.000172,52.008,245.8,FUSION,BMEA,Healthcare,Biotechnology,"Biomea Fusion, Inc.",United States,USD
+ASTRO MK Equity,Astro Malaysia Holdings Bhd,0.000163,2176.576,0.275,ASTRO,ATRO,Industrials,Aerospace & Defense,Astronics Corporation,United States,USD
+EVEX UN Equity,Eve Holding Inc,0.000156,43.372,3.2,EVEX,EVEX,Industrials,Aerospace & Defense,"Eve Holding, Inc.",United States,USD
+ORI TB Equity,Origin Property PCL,0.000151,828.849,5.3,ORI,ORI,Financial Services,Insurance—Property & Casualty,Old Republic International Corp,United States,USD
 FGEN PM Equity,First Gen Corp,0.00015,419.634,17.78,FGEN,FGEN,Healthcare,Biotechnology,"FibroGen, Inc",United States,USD
 IRON EC Equity,Egyptian Iron & Steel Co,0.00015,166.975,38.66,IRON,IRON,Healthcare,Biotechnology,"Disc Medicine, Inc.",United States,USD
 TSH MK Equity,TSH Resources Bhd,0.000129,438.642,1.08,TSH,TSHA,Healthcare,Biotechnology,"Taysha Gene Therapies, Inc.",United States,USD
@@ -101,8 +128,12 @@ ACE TB Equity,Absolute Clean Energy PCL,0.000105,2161.083,1.41,ACE,ACET,Healthca
 NVDA UW Equity,NVIDIA Corp,3.28974,23627.475,123.51,NVDA,NVDA,Technology,Semiconductors,NVIDIA Corporation,United States,USD
 AVGO UW Equity,Broadcom Inc,0.902855,4562.986,175.52,AVGO,AVGO,Technology,Semiconductors,Broadcom Inc.,United States,USD
 AMD UW Equity,Advanced Micro Devices Inc,0.294018,1609.765,162.02,AMD,AMD,Technology,Semiconductors,"Advanced Micro Devices, Inc.",United States,USD
+GE UN Equity,General Electric Co,0.222744,1043.623,189.33,GE,GE,Industrials,Aerospace & Defense,GE Aerospace,United States,USD
 QCOM UW Equity,QUALCOMM Inc,0.211488,1114.903,168.27,QCOM,QCOM,Technology,Semiconductors,QUALCOMM Incorporated,United States,USD
 TXN UW Equity,Texas Instruments Inc,0.210678,911.372,205.06,TXN,TXN,Technology,Semiconductors,Texas Instruments Incorporated,United States,USD
+RTX UN Equity,RTX Corp,0.181126,1328.964,120.9,RTX,RTX,Industrials,Aerospace & Defense,RTX Corporation,United States,USD
+PGR UN Equity,Progressive Corp/The,0.16918,583.969,256.99,PGR,PGR,Financial Services,Insurance—Property & Casualty,Progressive Corporation (The),United States,USD
+LMT UN Equity,Lockheed Martin Corp,0.155213,238.234,577.94,LMT,LMT,Industrials,Aerospace & Defense,Lockheed Martin Corporation,United States,USD
 VRTX UW Equity,Vertex Pharmaceuticals Inc,0.134057,257.531,461.76,VRTX,VRTX,Healthcare,Biotechnology,Vertex Pharmaceuticals Incorpor,United States,USD
 ADI UW Equity,Analog Devices Inc,0.126249,494.141,226.64,ADI,ADI,Technology,Semiconductors,"Analog Devices, Inc.",United States,USD
 MMC UN Equity,Marsh & McLennan Cos Inc,0.123484,489.277,223.88,MMC,MMC,Financial Services,Insurance Brokers,"Marsh & McLennan Companies, Inc",United States,USD
@@ -110,34 +141,69 @@ REGN UW Equity,Regeneron Pharmaceuticals Inc,0.122885,105.715,1031.15,REGN,REGN,
 MU UW Equity,Micron Technology Inc,0.1194,1105.94,95.77,MU,MU,Technology,Semiconductors,"Micron Technology, Inc.",United States,USD
 RELIANCE IS Equity,Reliance Industries Ltd,0.118732,2945.851,2987.8999,RELIANCE,RELI,Financial Services,Insurance Brokers,"Reliance Global Group, Inc.",United States,USD
 INTC UW Equity,Intel Corp,0.112899,4254.448,23.54,INTC,INTC,Technology,Semiconductors,Intel Corporation,United States,USD
+BA UN Equity,Boeing Co/The,0.10557,615.214,152.22,BA,BA,Industrials,Aerospace & Defense,Boeing Company (The),United States,USD
+AIR FP Equity,Airbus SE,0.09857,588.406,133.5,AIR,AIR,Industrials,Aerospace & Defense,AAR Corp.,United States,USD
+TDG UN Equity,TransDigm Group Inc,0.08696,54.161,1424.26,TDG,TDG,Industrials,Aerospace & Defense,Transdigm Group Incorporated,United States,USD
+GD UN Equity,General Dynamics Corp,0.082182,241.644,301.69,GD,GD,Industrials,Aerospace & Defense,General Dynamics Corporation,United States,USD
+NOC UN Equity,Northrop Grumman Corp,0.078552,131.945,528.11,NOC,NOC,Industrials,Aerospace & Defense,Northrop Grumman Corporation,United States,USD
 MRVL UW Equity,Marvell Technology Inc,0.069138,861.628,71.18,MRVL,MRVL,Technology,Semiconductors,"Marvell Technology, Inc.",United States,USD
 AJG UN Equity,Arthur J Gallagher & Co,0.068323,215.875,280.75,AJG,AJG,Financial Services,Insurance Brokers,Arthur J. Gallagher & Co.,United States,USD
+INGA NA Equity,ING Groep NV,0.067518,3303.054,16.29,INGA,HII,Industrials,Aerospace & Defense,"Huntington Ingalls Industries, ",United States,USD
+TRV UN Equity,Travelers Cos Inc/The,0.06035,226.535,236.32,TRV,TRV,Financial Services,Insurance—Property & Casualty,"The Travelers Companies, Inc.",United States,USD
+ALL UN Equity,Allstate Corp/The,0.055528,259.247,190,ALL,ALL,Financial Services,Insurance—Property & Casualty,Allstate Corporation (The),United States,USD
+LHX UN Equity,L3Harris Technologies Inc,0.049731,189.074,233.32,LHX,LHX,Industrials,Aerospace & Defense,"L3Harris Technologies, Inc.",United States,USD
 MPWR UW Equity,Monolithic Power Systems Inc,0.048336,46.874,914.74,MPWR,MPWR,Technology,Semiconductors,"Monolithic Power Systems, Inc.",United States,USD
+HWM UN Equity,Howmet Aerospace Inc,0.04533,403.236,99.72,HWM,HWM,Industrials,Aerospace & Defense,Howmet Aerospace Inc.,United States,USD
 MCHP UW Equity,Microchip Technology Inc,0.045066,525.25,76.11,MCHP,MCHP,Technology,Semiconductors,Microchip Technology Incorporat,United States,USD
 ALNY UW Equity,Alnylam Pharmaceuticals Inc,0.038736,125.99,272.73,ALNY,ALNY,Healthcare,Biotechnology,"Alnylam Pharmaceuticals, Inc.",United States,USD
+HIG UN Equity,Hartford Financial Services Group Inc/The,0.038342,291.62,116.63,HIG,HIG,Financial Services,Insurance—Property & Casualty,Hartford Financial Services Gro,United States,USD
 ON UW Equity,ON Semiconductor Corp,0.033459,426.135,69.65,ON,ON,Technology,Semiconductors,ON Semiconductor Corporation,United States,USD
+AXON UW Equity,Axon Enterprise Inc,0.031718,71.184,395.26,AXON,AXON,Industrials,Aerospace & Defense,"Axon Enterprise, Inc.",United States,USD
 BRO UN Equity,Brown & Brown Inc,0.027412,235.284,103.35,BRO,BRO,Financial Services,Insurance Brokers,"Brown & Brown, Inc.",United States,USD
+ALL AT Equity,Aristocrat Leisure Ltd,0.02491,573.25,56.49,ALL,ALL,Financial Services,Insurance—Property & Casualty,Allstate Corporation (The),United States,USD
 MRNA UW Equity,Moderna Inc,0.024505,341.573,63.64,MRNA,MRNA,Healthcare,Biotechnology,"Moderna, Inc.",United States,USD
+STC AB Equity,Saudi Telecom Co,0.023785,1799.2,44,STC,STC,Financial Services,Insurance—Property & Casualty,Stewart Information Services Co,United States,USD
+CINF UW Equity,Cincinnati Financial Corp,0.023312,152.932,135.22,CINF,CINF,Financial Services,Insurance—Property & Casualty,Cincinnati Financial Corporatio,United States,USD
+MKL UN Equity,Markel Group Inc,0.021902,12.471,1557.89,MKL,MKL,Financial Services,Insurance—Property & Casualty,Markel Group Inc.,United States,USD
+L CT Equity,Loblaw Cos Ltd,0.021458,144.407,177.74,L,L,Financial Services,Insurance—Property & Casualty,Loews Corporation,United States,USD
 KER FP Equity,Kering SA,0.019985,69.562,228.95,KER,KROS,Healthcare,Biotechnology,"Keros Therapeutics, Inc.",United States,USD
+WRB UN Equity,W R Berkley Corp,0.018235,286.857,56.39,WRB,WRB,Financial Services,Insurance—Property & Casualty,W.R. Berkley Corporation,United States,USD
+TXT UN Equity,Textron Inc,0.017943,186.184,85.49,TXT,TXT,Industrials,Aerospace & Defense,Textron Inc.,United States,USD
 UTHR UW Equity,United Therapeutics Corp,0.017716,43.714,359.51,UTHR,UTHR,Healthcare,Biotechnology,United Therapeutics Corporation,United States,USD
 FNF UN Equity,Fidelity National Financial Inc,0.017681,259.156,60.52,FNF,FNF,Financial Services,Insurance—Specialty,FNF Group of Fidelity National ,United States,USD
 SWKS UW Equity,Skyworks Solutions Inc,0.017435,159.149,97.18,SWKS,SWKS,Technology,Semiconductors,"Skyworks Solutions, Inc.",United States,USD
+HEI GY Equity,Heidelberg Materials AG,0.016457,133.417,98.3,HEI,HEI,Industrials,Aerospace & Defense,Heico Corporation,United States,USD
+RGA UN Equity,Reinsurance Group of America Inc,0.015972,64.796,218.66,RGA,RGA,Financial Services,Insurance—Reinsurance,"Reinsurance Group of America, I",United States,USD
+L UN Equity,Loews Corp,0.015945,181.2,78.06,L,L,Financial Services,Insurance—Property & Casualty,Loews Corporation,United States,USD
 ERIE UW Equity,Erie Indemnity Co,0.015284,25.157,538.95,ERIE,ERIE,Financial Services,Insurance Brokers,Erie Indemnity Company,United States,USD
 BMRN UW Equity,BioMarin Pharmaceutical Inc,0.01463,188.033,69.02,BMRN,BMRN,Healthcare,Biotechnology,BioMarin Pharmaceutical Inc.,United States,USD
+CW UN Equity,Curtiss-Wright Corp,0.01394,38.056,324.94,CW,CW,Industrials,Aerospace & Defense,Curtiss-Wright Corporation,United States,USD
 INSM UW Equity,Insmed Inc,0.013185,160.799,72.735,INSM,INSM,Healthcare,Biotechnology,Insmed Incorporated,United States,USD
 TECH UW Equity,Bio-Techne Corp,0.013176,155.949,74.95,TECH,TECH,Healthcare,Biotechnology,Bio-Techne Corp,United States,USD
 PCVX UW Equity,Vaxcyte Inc,0.0128,100.078,113.46,PCVX,PCVX,Healthcare,Biotechnology,"Vaxcyte, Inc.",United States,USD
 SRPT UW Equity,Sarepta Therapeutics Inc,0.012659,90.112,124.62,SRPT,SRPT,Healthcare,Biotechnology,"Sarepta Therapeutics, Inc.",United States,USD
+HEI UN Equity,HEICO Corp,0.012529,42.303,262.73,HEI,HEI,Industrials,Aerospace & Defense,Heico Corporation,United States,USD
 RPRX UW Equity,Royalty Pharma PLC,0.012092,387.945,27.65,RPRX,RPRX,Healthcare,Biotechnology,Royalty Pharma plc,United States,USD
+SVT LN Equity,Severn Trent PLC,0.011886,299.147,2646,SVT,SVT,Industrials,Aerospace & Defense,"Servotronics, Inc.",United States,USD
+WWD UW Equity,Woodward Inc,0.011515,60.339,169.29,WWD,WWD,Industrials,Aerospace & Defense,"Woodward, Inc.",United States,USD
+AIZ UN Equity,Assurant Inc,0.011428,51.579,196.54,AIZ,AIZ,Financial Services,Insurance—Property & Casualty,"Assurant, Inc.",United States,USD
 INCY UW Equity,Incyte Corp,0.011362,159.425,63.22,INCY,INCY,Healthcare,Biotechnology,Incyte Corporation,United States,USD
 ACS SQ Equity,ACS Actividades de Construccion y Servicios SA,0.011294,214.595,41.94,ACS,ACST,Healthcare,Biotechnology,"Acasti Pharma, Inc.",United States,USD
+AFG UN Equity,American Financial Group Inc/OH,0.011219,73.563,135.28,AFG,AFG,Financial Services,Insurance—Property & Casualty,"American Financial Group, Inc.",United States,USD
+HII UN Equity,Huntington Ingalls Industries Inc,0.011206,38.675,257.02,HII,HII,Industrials,Aerospace & Defense,"Huntington Ingalls Industries, ",United States,USD
+KNSL UN Equity,Kinsale Capital Group Inc,0.011158,22.046,448.97,KNSL,KNSL,Financial Services,Insurance—Property & Casualty,"Kinsale Capital Group, Inc.",United States,USD
+BWXT UN Equity,BWX Technologies Inc,0.01091,91.049,106.29,BWXT,BWXT,Industrials,Aerospace & Defense,"BWX Technologies, Inc.",United States,USD
 QRVO UW Equity,Qorvo Inc,0.010867,94.059,102.49,QRVO,QRVO,Technology,Semiconductors,"Qorvo, Inc.",United States,USD
+ORI UN Equity,Old Republic International Corp,0.010006,251.435,35.3,ORI,ORI,Financial Services,Insurance—Property & Casualty,Old Republic International Corp,United States,USD
 BOL SS Equity,Boliden AB,0.009547,264.437,326.2,BOL,BOLT,Healthcare,Biotechnology,"Bolt Biotherapeutics, Inc.",United States,USD
 ADVANC TB Equity,Advanced Info Service PCL,0.009319,1022.354,265,ADVANC,AMD,Technology,Semiconductors,"Advanced Micro Devices, Inc.",United States,USD
+CNA LN Equity,Centrica PLC,0.009222,5224.134,117.55,CNA,CNA,Financial Services,Insurance—Property & Casualty,CNA Financial Corporation,United States,USD
 EXEL UW Equity,Exelixis Inc,0.008331,283.597,26.06,EXEL,EXEL,Healthcare,Biotechnology,"Exelixis, Inc.",United States,USD
 LSCC UW Equity,Lattice Semiconductor Corp,0.007934,136.152,51.69,LSCC,LSCC,Technology,Semiconductors,Lattice Semiconductor Corporati,United States,USD
 HALO UW Equity,Halozyme Therapeutics Inc,0.007929,125.886,55.87,HALO,HALO,Healthcare,Biotechnology,"Halozyme Therapeutics, Inc.",United States,USD
 RVMD UW Equity,REVOLUTION Medicines Inc,0.007702,152.294,44.86,RVMD,RVMD,Healthcare,Biotechnology,"Revolution Medicines, Inc.",United States,USD
+RLI UN Equity,RLI Corp,0.007618,44.22,152.81,RLI,RLI,Financial Services,Insurance—Property & Casualty,RLI Corp.,United States,USD
+LUN CT Equity,Lundin Mining Corp,0.007566,651.57,13.89,LUN,LUNR,Industrials,Aerospace & Defense,"Intuitive Machines, Inc.",United States,USD
 VKTX UR Equity,Viking Therapeutics Inc,0.007407,104.077,63.13,VKTX,VKTX,Healthcare,Biotechnology,"Viking Therapeutics, Inc.",United States,USD
 RYAN UN Equity,Ryan Specialty Holdings Inc,0.007287,96.539,66.96,RYAN,RYAN,Financial Services,Insurance—Specialty,"Ryan Specialty Holdings, Inc.",United States,USD
 MTG UN Equity,MGIC Investment Corp,0.007243,255.659,25.13,MTG,MTG,Financial Services,Insurance—Specialty,MGIC Investment Corporation,United States,USD
@@ -145,16 +211,21 @@ CRUS UW Equity,Cirrus Logic Inc,0.007177,53.147,119.79,CRUS,CRUS,Technology,Semi
 FAF UN Equity,First American Financial Corp,0.007147,98.542,64.34,FAF,FAF,Financial Services,Insurance—Specialty,First American Corporation (New,United States,USD
 MTSI UW Equity,MACOM Technology Solutions Holdings Inc,0.006921,57.84,106.14,MTSI,MTSI,Technology,Semiconductors,MACOM Technology Solutions Hold,United States,USD
 CYTK UW Equity,Cytokinetics Inc,0.006741,113.503,52.68,CYTK,CYTK,Healthcare,Biotechnology,"Cytokinetics, Incorporated",United States,USD
+ORI AT Equity,Orica Ltd,0.006738,486.061,18.02,ORI,ORI,Financial Services,Insurance—Property & Casualty,Old Republic International Corp,United States,USD
 LPC IS Equity,Lupin Ltd,0.00651,217.276,2221.1001,LPC,LPCN,Healthcare,Biotechnology,Lipocine Inc.,United States,USD
 VTY LN Equity,Vistry Group PLC,0.0065,331.444,1306,VTY,VTYX,Healthcare,Biotechnology,"Ventyx Biosciences, Inc.",United States,USD
+AVAV UW Equity,AeroVironment Inc,0.006166,27.799,196.75,AVAV,AVAV,Industrials,Aerospace & Defense,"AeroVironment, Inc.",United States,USD
 REC IM Equity,Recordati Industria Chimica e Farmaceutica SpA,0.006144,97.637,50.15,REC,RXRX,Healthcare,Biotechnology,"Recursion Pharmaceuticals, Inc.",United States,USD
+SIGI UW Equity,Selective Insurance Group Inc,0.006127,59.606,91.19,SIGI,SIGI,Financial Services,Insurance—Property & Casualty,"Selective Insurance Group, Inc.",United States,USD
 BPMC UW Equity,Blueprint Medicines Corp,0.006041,61.598,87,BPMC,BPMC,Healthcare,Biotechnology,Blueprint Medicines Corporation,United States,USD
 IONS UW Equity,Ionis Pharmaceuticals Inc,0.005909,127.867,40.99,IONS,IONS,Healthcare,Biotechnology,"Ionis Pharmaceuticals, Inc.",United States,USD
 NKT DC Equity,NKT A/S,0.005807,53.505,645,NKT,NKTR,Healthcare,Biotechnology,Nektar Therapeutics,United States,USD
 RDN UN Equity,Radian Group Inc,0.005788,148.614,34.55,RDN,RDN,Financial Services,Insurance—Specialty,Radian Group Inc.,United States,USD
 RARE UW Equity,Ultragenyx Pharmaceutical Inc,0.005661,88.469,56.76,RARE,RARE,Healthcare,Biotechnology,Ultragenyx Pharmaceutical Inc.,United States,USD
+HXL UN Equity,Hexcel Corp,0.005611,81.158,61.33,HXL,HXL,Industrials,Aerospace & Defense,Hexcel Corporation,United States,USD
 JSP IS Equity,Jindal Steel & Power Ltd,0.005542,402.464,1020.8,JSP,JSPR,Healthcare,Biotechnology,"Jasper Therapeutics, Inc.",United States,USD
 GALD SE Equity,Galderma Group AG,0.00542,51.294,79.71,GALD,A1JG34.SA,Financial Services,Insurance Brokers,ARTHUR J GALDRN,United States,BRL
+THG UN Equity,Hanover Insurance Group Inc/The,0.00535,32.209,147.35,THG,THG,Financial Services,Insurance—Property & Casualty,Hanover Insurance Group Inc,United States,USD
 BOL FP Equity,Bollore SE,0.005216,687.627,6.045,BOL,BOLT,Healthcare,Biotechnology,"Bolt Biotherapeutics, Inc.",United States,USD
 RNA UQ Equity,Avidity Biosciences Inc,0.005216,100.688,45.95,RNA,RNA,Healthcare,Biotechnology,"Avidity Biosciences, Inc.",United States,USD
 KRYS UW Equity,Krystal Biotech Inc,0.00508,25.099,179.53,KRYS,KRYS,Healthcare,Biotechnology,"Krystal Biotech, Inc.",United States,USD
@@ -165,7 +236,9 @@ RMBS UW Equity,Rambus Inc,0.004597,106.365,38.34,RMBS,RMBS,Technology,Semiconduc
 NEXI IM Equity,Nexi SpA,0.004544,599.981,6.036,NEXI,NEXI,Healthcare,Biotechnology,"NexImmune, Inc.",United States,USD
 MDGL UW Equity,Madrigal Pharmaceuticals Inc,0.004421,18.138,216.21,MDGL,MDGL,Healthcare,Biotechnology,"Madrigal Pharmaceuticals, Inc.",United States,USD
 CRNX UW Equity,Crinetics Pharmaceuticals Inc,0.004305,75.701,50.45,CRNX,CRNX,Healthcare,Biotechnology,"Crinetics Pharmaceuticals, Inc.",United States,USD
+SPR UN Equity,Spirit AeroSystems Holdings Inc,0.004276,115.513,32.84,SPR,SPR,Industrials,Aerospace & Defense,"Spirit Aerosystems Holdings, In",United States,USD
 NUVL UW Equity,Nuvalent Inc,0.004194,37.035,100.45,NUVL,NUVL,Healthcare,Biotechnology,"Nuvalent, Inc.",United States,USD
+KMPR UN Equity,Kemper Corp,0.004184,61.293,60.55,KMPR,KMPR,Financial Services,Insurance—Property & Casualty,Kemper Corporation,United States,USD
 CORT UR Equity,Corcept Therapeutics Inc,0.004103,85.551,42.54,CORT,CORT,Healthcare,Biotechnology,Corcept Therapeutics Incorporat,United States,USD
 SLAB UW Equity,Silicon Laboratories Inc,0.004051,31.494,114.09,SLAB,SLAB,Technology,Semiconductors,"Silicon Laboratories, Inc.",United States,USD
 AXSM UQ Equity,Axsome Therapeutics Inc,0.00397,39.163,89.92,AXSM,AXSM,Healthcare,Biotechnology,"Axsome Therapeutics, Inc.",United States,USD
@@ -174,6 +247,7 @@ ACLX UW Equity,Arcellx Inc,0.003953,41.45,84.6,ACLX,ACLX,Healthcare,Biotechnolog
 BHVN UN Equity,Biohaven Ltd,0.003888,70.053,49.23,BHVN,BHVN,Healthcare,Biotechnology,Biohaven Ltd.,United States,USD
 BBIO UW Equity,Bridgebio Pharma Inc,0.003863,139.814,24.51,BBIO,BBIO,Healthcare,Biotechnology,"BridgeBio Pharma, Inc.",United States,USD
 GFS UW Equity,GLOBALFOUNDRIES Inc,0.003807,86.003,39.27,GFS,GFS,Technology,Semiconductors,GlobalFoundries Inc.,United States,USD
+KTOS UW Equity,Kratos Defense & Security Solutions Inc,0.003803,146.308,23.06,KTOS,KTOS,Industrials,Aerospace & Defense,Kratos Defense & Security Solut,United States,USD
 POWI UW Equity,Power Integrations Inc,0.003791,55.609,60.48,POWI,POWI,Technology,Semiconductors,"Power Integrations, Inc.",United States,USD
 ANA SQ Equity,Acciona SA,0.003728,23.806,124.8,ANA,AVXL,Healthcare,Biotechnology,Anavex Life Sciences Corp.,United States,USD
 TGTX UR Equity,TG Therapeutics Inc,0.003678,139.734,23.35,TGTX,TGTX,Healthcare,Biotechnology,"TG Therapeutics, Inc.",United States,USD
@@ -189,11 +263,13 @@ SITM UQ Equity,SiTime Corp,0.003349,17.728,167.59,SITM,SITM,Technology,Semicondu
 CRVL UW Equity,CorVel Corp,0.003344,9.247,320.8,CRVL,CRVL,Financial Services,Insurance Brokers,CorVel Corp.,United States,USD
 GNP IS Equity,Glenmark Pharmaceuticals Ltd,0.003158,138.607,1689.2,GNP,GNPX,Healthcare,Biotechnology,"Genprex, Inc.",United States,USD
 SYNA UW Equity,Synaptics Inc,0.003156,38.718,72.3,SYNA,SYNA,Technology,Semiconductors,Synaptics Incorporated,United States,USD
+RKLB UR Equity,Rocket Lab USA Inc,0.003152,324.35,8.62,RKLB,RKLB,Industrials,Aerospace & Defense,"Rocket Lab USA, Inc.",United States,USD
 PTCT UW Equity,PTC Therapeutics Inc,0.003119,75.523,36.64,PTCT,PTCT,Healthcare,Biotechnology,"PTC Therapeutics, Inc.",United States,USD
 TIT IM Equity,Telecom Italia SpA/Milano,0.003101,10184.897,0.2426,TIT,TTNP,Healthcare,Biotechnology,"Titan Pharmaceuticals, Inc.",United States,USD
 AGIO UW Equity,Agios Pharmaceuticals Inc,0.00309,55.91,49.03,AGIO,AGIO,Healthcare,Biotechnology,"Agios Pharmaceuticals, Inc.",United States,USD
 DIOD UW Equity,Diodes Inc,0.002937,44.425,58.65,DIOD,DIOD,Technology,Semiconductors,Diodes Incorporated,United States,USD
 MTS AT Equity,Metcash Ltd,0.002882,1079.597,3.47,MTS,MTSI,Technology,Semiconductors,MACOM Technology Solutions Hold,United States,USD
+MCY NZ Equity,Mercury NZ Ltd,0.002881,664.393,6.14,MCY,MCY,Financial Services,Insurance—Property & Casualty,Mercury General Corporation,United States,USD
 PTGX UQ Equity,Protagonist Therapeutics Inc,0.00288,55.362,46.14,PTGX,PTGX,Healthcare,Biotechnology,"Protagonist Therapeutics, Inc.",United States,USD
 GERN UW Equity,Geron Corp,0.002871,564.728,4.51,GERN,GERN,Healthcare,Biotechnology,Geron Corporation,United States,USD
 VK FP Equity,Vallourec SACA,0.002861,168.486,13.53,VK,VKTX,Healthcare,Biotechnology,"Viking Therapeutics, Inc.",United States,USD
@@ -202,6 +278,7 @@ SRP LN Equity,Serco Group PLC,0.002808,1052.98,177.6,SRP,SRPT,Healthcare,Biotech
 ALGM UW Equity,Allegro MicroSystems Inc,0.002748,107.161,22.75,ALGM,ALGM,Technology,Semiconductors,"Allegro MicroSystems, Inc.",United States,USD
 IDYA UW Equity,Ideaya Biosciences Inc,0.00272,79.445,30.37,IDYA,IDYA,Healthcare,Biotechnology,"IDEAYA Biosciences, Inc.",United States,USD
 CLDX UR Equity,Celldex Therapeutics Inc,0.002669,65.735,36.02,CLDX,CLDX,Healthcare,Biotechnology,"Celldex Therapeutics, Inc.",United States,USD
+PLMR UW Equity,Palomar Holdings Inc,0.00266,24.203,97.48,PLMR,PLMR,Financial Services,Insurance—Property & Casualty,"Palomar Holdings, Inc.",United States,USD
 GRI LN Equity,Grainger PLC,0.002645,741.557,237.5,GRI,GRI,Healthcare,Biotechnology,"GRI Bio, Inc.",United States,USD
 IPS FP Equity,IPSOS SA,0.002643,37.584,56.05,IPS,IPSC,Healthcare,Biotechnology,"Century Therapeutics, Inc.",United States,USD
 IOVA UQ Equity,Iovance Biotherapeutics Inc,0.002606,250.758,9.22,IOVA,IOVA,Healthcare,Biotechnology,"Iovance Biotherapeutics, Inc.",United States,USD
@@ -210,13 +287,18 @@ VSH UN Equity,Vishay Intertechnology Inc,0.002495,123.768,17.88,VSH,VSH,Technolo
 CPRX UR Equity,Catalyst Pharmaceuticals Inc,0.002493,110.568,20,CPRX,CPRX,Healthcare,Biotechnology,"Catalyst Pharmaceuticals, Inc.",United States,USD
 APGE UQ Equity,Apogee Therapeutics Inc,0.002429,37.335,57.71,APGE,APGE,Healthcare,Biotechnology,"Apogee Therapeutics, Inc.",United States,USD
 SWTX UW Equity,SpringWorks Therapeutics Inc,0.002425,66.174,32.51,SWTX,SWTX,Healthcare,Biotechnology,"SpringWorks Therapeutics, Inc.",United States,USD
+AIR UN Equity,AAR Corp,0.002424,33.771,63.67,AIR,AIR,Industrials,Aerospace & Defense,AAR Corp.,United States,USD
 ALR PW Equity,Alior Bank SA,0.002419,88.895,92.54,ALR,ALRN,Healthcare,Biotechnology,"Aileron Therapeutics, Inc.",United States,USD
 CCC LN Equity,Computacenter PLC,0.002416,64.83,2482,CCC,CCCC,Healthcare,Biotechnology,"C4 Therapeutics, Inc.",United States,USD
 VCEL UQ Equity,Vericel Corp,0.0024,48.169,44.2,VCEL,VCEL,Healthcare,Biotechnology,Vericel Corporation,United States,USD
 CRIN IS Equity,Coromandel International Ltd,0.002381,107.334,1644.2,CRIN,CRNX,Healthcare,Biotechnology,"Crinetics Pharmaceuticals, Inc.",United States,USD
+DRS UW Equity,Leonardo DRS Inc,0.002283,73.598,27.52,DRS,DRS,Industrials,Aerospace & Defense,"Leonardo DRS, Inc.",United States,USD
 EWTX UW Equity,Edgewise Therapeutics Inc,0.00228,78.164,25.87,EWTX,EWTX,Healthcare,Biotechnology,"Edgewise Therapeutics, Inc.",United States,USD
 DN IS Equity,Deepak Nitrite Ltd,0.002276,59.645,2829.3501,DN,DNA,Healthcare,Biotechnology,"Ginkgo Bioworks Holdings, Inc.",United States,USD
 SMMT UQ Equity,Summit Therapeutics Inc,0.002276,89.161,22.64,SMMT,SMMT,Healthcare,Biotechnology,Summit Therapeutics Inc.,United States,USD
+STC UN Equity,Stewart Information Services Corp,0.002235,27.072,73.25,STC,STC,Financial Services,Insurance—Property & Casualty,Stewart Information Services Co,United States,USD
+HAG GY Equity,Hensoldt AG,0.002228,62.79,28.28,HAG,HGTY,Financial Services,Insurance—Property & Casualty,"Hagerty, Inc.",United States,USD
+AVI SJ Equity,AVI Ltd,0.002189,303.121,11036,AVI,ACHR,Industrials,Aerospace & Defense,Archer Aviation Inc.,United States,USD
 PMV AT Equity,Premier Investments Ltd,0.00216,91.731,30.61,PMV,PMVP,Healthcare,Biotechnology,"PMV Pharmaceuticals, Inc.",United States,USD
 CGON UW Equity,CG oncology Inc,0.00214,52.443,36.2,CGON,CGON,Healthcare,Biotechnology,"CG Oncology, Inc.",United States,USD
 NTLA UQ Equity,Intellia Therapeutics Inc,0.002122,90.971,20.695,NTLA,NTLA,Healthcare,Biotechnology,"Intellia Therapeutics, Inc.",United States,USD
@@ -225,14 +307,19 @@ RGN AT Equity,Region RE Ltd,0.002093,1157.648,2.35,RGN,RGNX,Healthcare,Biotechno
 DEG AT Equity,De Grey Mining Ltd,0.00209,2050.076,1.325,DEG,SXTP,Healthcare,Biotechnology,"60 Degrees Pharmaceuticals, Inc",United States,USD
 VIRP FP Equity,Virbac SACA,0.002073,4.252,388.5,VIRP,VRPX,Healthcare,Biotechnology,"Virpax Pharmaceuticals, Inc.",United States,USD
 VERA UQ Equity,Vera Therapeutics Inc,0.002052,40.519,44.92,VERA,VERA,Healthcare,Biotechnology,"Vera Therapeutics, Inc.",United States,USD
+MRCY UW Equity,Mercury Systems Inc,0.002043,50.073,36.2,MRCY,MRCY,Industrials,Aerospace & Defense,Mercury Systems Inc,United States,USD
+ROO LN Equity,Deliveroo PLC,0.002034,873.758,155,ROO,ROOT,Financial Services,Insurance—Property & Casualty,"Root, Inc.",United States,USD
 BEAM UW Equity,Beam Therapeutics Inc,0.002025,73.309,24.5,BEAM,BEAM,Healthcare,Biotechnology,Beam Therapeutics Inc.,United States,USD
+SWB MK Equity,Sunway Bhd,0.002018,1735.119,4.26,SWB,SWBI,Industrials,Aerospace & Defense,"Smith & Wesson Brands, Inc.",United States,USD
 AKRO UW Equity,Akero Therapeutics Inc,0.002006,63.554,28,AKRO,AKRO,Healthcare,Biotechnology,"Akero Therapeutics, Inc.",United States,USD
 IMVT UW Equity,Immunovant Inc,0.002002,62.476,28.42,IMVT,IMVT,Healthcare,Biotechnology,"Immunovant, Inc.",United States,USD
 SOLUTION AB Equity,Arabian Internet & Communications Services Co,0.001986,23.984,275.6,SOLUTION,SWKS,Technology,Semiconductors,"Skyworks Solutions, Inc.",United States,USD
 FTRE UW Equity,Fortrea Holdings Inc,0.00196,89.268,19.48,FTRE,FTRE,Healthcare,Biotechnology,Fortrea Holdings Inc.,United States,USD
 MIRM UQ Equity,Mirum Pharmaceuticals Inc,0.001929,43.891,38.99,MIRM,MIRM,Healthcare,Biotechnology,"Mirum Pharmaceuticals, Inc.",United States,USD
 LGND UQ Equity,Ligand Pharmaceuticals Inc,0.001924,17.28,98.78,LGND,LGND,Healthcare,Biotechnology,Ligand Pharmaceuticals Incorpor,United States,USD
+HMN IS Equity,Emami Ltd,0.001905,190.204,742.55,HMN,HMN,Financial Services,Insurance—Property & Casualty,Horace Mann Educators Corporati,United States,USD
 MNKD UQ Equity,MannKind Corp,0.001901,263.949,6.39,MNKD,MNKD,Healthcare,Biotechnology,MannKind Corporation,United States,USD
+MCY UN Equity,Mercury General Corp,0.001901,26.537,63.55,MCY,MCY,Financial Services,Insurance—Property & Casualty,Mercury General Corporation,United States,USD
 PGE PW Equity,PGE Polska Grupa Energetyczna SA,0.001861,859.414,7.364,PGE,PGEN,Healthcare,Biotechnology,"Precigen, Inc.",United States,USD
 NVAX UW Equity,Novavax Inc,0.001812,133.47,12.04,NVAX,NVAX,Healthcare,Biotechnology,"Novavax, Inc.",United States,USD
 KROS UQ Equity,Keros Therapeutics Inc,0.001811,28.464,56.45,KROS,KROS,Healthcare,Biotechnology,"Keros Therapeutics, Inc.",United States,USD
@@ -242,12 +329,15 @@ FRES LN Equity,Fresnillo PLC,0.001714,184.252,619.5,FRES,FRES,Healthcare,Biotech
 NRIX UQ Equity,Nurix Therapeutics Inc,0.001684,63.484,23.53,NRIX,NRIX,Healthcare,Biotechnology,"Nurix Therapeutics, Inc.",United States,USD
 SNDX UW Equity,Syndax Pharmaceuticals Inc,0.001656,81.531,18.02,SNDX,SNDX,Healthcare,Biotechnology,"Syndax Pharmaceuticals, Inc.",United States,USD
 ARVN UW Equity,Arvinas Inc,0.001619,60.692,23.66,ARVN,ARVN,Healthcare,Biotechnology,"Arvinas, Inc.",United States,USD
+SKWD UW Equity,Skyward Specialty Insurance Group Inc,0.001618,34.835,41.21,SKWD,SKWD,Financial Services,Insurance—Property & Casualty,Skyward Specialty Insurance Gro,United States,USD
+HMN UN Equity,Horace Mann Educators Corp,0.001613,40.329,35.48,HMN,HMN,Financial Services,Insurance—Property & Casualty,Horace Mann Educators Corporati,United States,USD
 PTG MK Equity,Petronas Gas Bhd,0.00156,318.131,17.96,PTG,PTGX,Healthcare,Biotechnology,"Protagonist Therapeutics, Inc.",United States,USD
 ARDX UQ Equity,Ardelyx Inc,0.001542,225.311,6.07,ARDX,ARDX,Healthcare,Biotechnology,"Ardelyx, Inc.",United States,USD
 TRUP UQ Equity,Trupanion Inc,0.00154,32.487,42.05,TRUP,TRUP,Financial Services,Insurance—Specialty,"Trupanion, Inc.",United States,USD
 SAVA UR Equity,Cassava Sciences Inc,0.001503,43.754,30.47,SAVA,SAVA,Healthcare,Biotechnology,"Cassava Sciences, Inc.",United States,USD
 CCC PW Equity,CCC SA,0.001501,28.685,178,CCC,CCCC,Healthcare,Biotechnology,"C4 Therapeutics, Inc.",United States,USD
 SGM AT Equity,Sims Ltd,0.001498,158.722,12.27,SGM,SGMO,Healthcare,Biotechnology,"Sangamo Therapeutics, Inc.",United States,USD
+VSEC UW Equity,VSE Corp,0.001498,16.053,82.76,VSEC,VSEC,Industrials,Aerospace & Defense,VSE Corporation,United States,USD
 JANX UQ Equity,Janux Therapeutics Inc,0.001495,27.684,47.89,JANX,JANX,Healthcare,Biotechnology,"Janux Therapeutics, Inc.",United States,USD
 KURA UW Equity,Kura Oncology Inc,0.001493,67.684,19.57,KURA,KURA,Healthcare,Biotechnology,"Kura Oncology, Inc.",United States,USD
 OCUL UQ Equity,Ocular Therapeutix Inc,0.001492,149.735,8.84,OCUL,OCUL,Healthcare,Biotechnology,"Ocular Therapeutix, Inc.",United States,USD
@@ -260,5 +350,6 @@ SYRE UW Equity,Spyre Therapeutics Inc,0.001402,44.893,27.71,SYRE,SYRE,Healthcare
 XNCR UQ Equity,Xencor Inc,0.001352,60.7,19.76,XNCR,XNCR,Healthcare,Biotechnology,"Xencor, Inc.",United States,USD
 EIG UN Equity,Employers Holdings Inc,0.001327,24.873,47.33,EIG,EIG,Financial Services,Insurance—Specialty,Employers Holdings Inc,United States,USD
 RELI IS Equity,Reliance Infrastructure Ltd,0.001314,290.667,335.16,RELI,RELI,Financial Services,Insurance Brokers,"Reliance Global Group, Inc.",United States,USD
+SAFT UW Equity,Safety Insurance Group Inc,0.001301,14.157,81.55,SAFT,SAFT,Financial Services,Insurance—Property & Casualty,"Safety Insurance Group, Inc.",United States,USD
 AKER NO Equity,Aker ASA,0.001284,21.697,555,AKER,AKRO,Healthcare,Biotechnology,"Akero Therapeutics, Inc.",United States,USD
 TARS UW Equity,Tarsus Pharmaceuticals Inc,0.00128,35.057,32.38,TARS,TARS,Healthcare,Biotechnology,"Tarsus Pharmaceuticals, Inc.",United States,USD
