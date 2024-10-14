@@ -14,47 +14,60 @@ class FonteDados:
         self.start_date = self.end_date - diff_time 
         self.dados = {}
 
-        ativos = pd.read_csv(r'..\data\sistema_challenge\portfolio.csv', index_col = [0], parse_data = [0], nrows=1)
+        ativos = pd.read_csv(r'..\data\sistema_challenge\portfolio.csv', index_col = [0], parse_dates = [0], nrows=1)
         for ativo in ativos.columns:
             self.dados[ativo] = yf.download(ativo, start=self.start_date, end=self.end_date, progress=False)[['Open', 'Close', 'High', 'Low', 'Volume']]
 
-        self.adicionar_beta_volume()
+        self.adicionar_macd_volume()
         self.adicionar_estocastico()
-
+        self.adicionar_true_range()
 
     def __getattr__(self, name):
         return self.dados[name]
     
 
-    def _adicionar_beta(self, volume):
-        if len(volume) < 7:
-                return np.nan  # Skip if not enough data
-        # Day indices (0 to 6)
-        X = np.arange(len(volume)).reshape(-1, 1)
-        y = volume.values
-        # Weights: more weight to recent days
-        weights = np.linspace(1, 7, num=7)
-        # Perform weighted linear regression
-        model = LinearRegression()
-        model.fit(X, y, sample_weight=weights)
-        # Extract beta (slope)
-        beta = model.coef_[0]
-        return beta 
+    def _adicionar_indicador_volume(self, volume):
+        
+        # Utilizando média exponencial para 7 dias (captar rápido mudanças)
+        media_7 = volume.ewm(span=7, adjust=False).mean()
+
+        # Utilizando média aritmética para 30 dias (não captar ruídos de médio prazo)
+        media_30 = volume.rolling(30).mean()
+
+        # Obtendo diferença entre a média de 7 e média de 30 
+        macd_volume = media_7 - media_30 
+
+        # Normalizando para ser mais fácil compreender o MACD
+        macd_volume = (macd_volume - macd_volume.mean()) / macd_volume.std()
+        return macd_volume
+
     
-    def adicionar_beta_volume(self):
+    def adicionar_macd_volume(self):
         """ Propriedade para adicionar betas de volume em 3 dias """
 
         for _, df in self.dados.items():
-            beta = df['Volume'].rolling(3).apply(lambda x: self._adicionar_beta(x), raw=False)
-            beta_normalizado = (beta - beta.mean()) / beta.std()
-            df['BetaNormalizado3D'] = beta_normalizado
+            macd_volume = self._adicionar_indicador_volume(df['Volume'])
+            df['MACDVolume'] = macd_volume
     
+
+
     def adicionar_estocastico(self):
         """ Método para adicionar estocástico"""
         for _, df in self.dados.items():
             stochastic = ta.momentum.StochasticOscillator(close = df.Close, high=df.High, low = df.Low)
             df['%K'] = stochastic.stoch()
             df['%D'] = stochastic.stoch_signal()
+
+    def adicionar_true_range(self):
+        """ Método para adicionar ATR de 3 períodos """
+        for _, df in self.dados.items():
+            df['ATR'] = ta.volatility.AverageTrueRange(
+                            high=df['High'],
+                            low=df['Low'],
+                            close=df['Close'],
+                            window=3
+                        ).average_true_range()
+            
             
 
     
